@@ -2,7 +2,7 @@
 
 ## 👋 Welcome
 
-Welcome to my **SOC Analyst Lab Portfolio**.
+Welcome to my **SOC Analyst Lab **.
 
 I created this repository to document my journey of learning and practicing **Security Operations Center (SOC)** skills through realistic, hands-on investigations performed in a controlled lab environment.
 
