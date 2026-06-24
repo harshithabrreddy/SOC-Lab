@@ -1,0 +1,26 @@
+Ticket Number : INC-2026-001
+
+Reported Date : 24-Jun-2026
+
+Reported Time : 09:30 AM
+
+Reported By : John Doe
+
+Department : Human Resources
+
+Priority : Medium
+
+Category : Network Connectivity
+
+Issue :
+
+User reports that the workstation cannot access internet websites.
+
+Business Impact :
+
+Unable to access cloud applications, email, and external websites.
+
+Assigned To :
+
+Harshitha BR
+SOC Analyst (Lab)
